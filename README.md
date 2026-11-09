@@ -96,19 +96,22 @@ Submission timestamps are converted back into `datetime` objects using `datetime
 
 Let:
 
-- `N` = number of waiting ride requests.
-- `C` = number of cabs.
-- `K` = number of passengers assigned during a dispatch.
+- `N` = Number of waiting ride requests.
+- `C` = Number of cabs.
+- `K` = Number of passengers assigned during a dispatch.
 
-Time Complexity 
-Loading JSON data $O(N+C)$
-Building priority queues using repeated `heappush` $O(NlogN)$ 
-Extracting k passengers from a heap $O(KlogN)$ 
-Displaying all requests and cabs $O(N+C)$ 
-Sorting requests for matching preview $O(NlogN)$ Lambda expression $O(1)$
-Adding N Requests - $O(N)$
-Sending 1 Cab - $O(NlogN + KlogN + C)$ (Technically / amortized under common scneario where C,K are much less than N this becomes $O(NlogN)$)
-Finding cab - $O(C)$
+| Operation | Time Complexity |
+|---|---|
+| Loading JSON data | $O(N + C)$ |
+| Building priority queues using repeated `heappush` | $O(N \log N)$ |
+| Extracting $K$ passengers from a heap | $O(K \log N)$ |
+| Displaying all requests and cabs | $O(N + C)$ |
+| Sorting requests for matching preview | $O(N \log N)$ |
+| Adding $N$ ride requests | $O(N)$ amortized |
+| Finding an open cab | $O(C)$ |
+| Sending one cab (including queue construction) | $O(N \log N + K \log N + C)$  ~ $O(N \logN)$ |
+
+
 
 ## 6. Design Decisions
 
