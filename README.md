@@ -109,7 +109,7 @@ Let:
 | Sorting requests for matching preview | $O(N \log N)$ |
 | Adding $N$ ride requests | $O(N)$ amortized |
 | Finding an open cab | $O(C)$ |
-| Sending one cab (including queue construction) | $O(N \log N + K \log N + C)$  ~ $O(N \logN)$ |
+| Sending one cab (including queue construction) | $O(N \log N + K \log N + C)$  ~ $O(N \log N)$ |
 
 
 
