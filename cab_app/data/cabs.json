@@ -1,0 +1,10 @@
+[
+    {
+        "driver": "Challa",
+        "seats": 4,
+        "destination": "Delhi",
+        "pickup_time": "Morning",
+        "has_left": false,
+        "passengers": []
+    }
+]
