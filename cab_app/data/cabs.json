@@ -4,6 +4,55 @@
         "seats": 4,
         "destination": "Delhi",
         "pickup_time": "Morning",
+        "has_left": true,
+        "passengers": [
+            [
+                "JohnDhoe",
+                "2026A7PS0500P"
+            ],
+            [
+                "Oye Tope",
+                "2025A80901P"
+            ]
+        ]
+    },
+    {
+        "driver": "Han Solo",
+        "seats": 4,
+        "destination": "Delhi",
+        "pickup_time": "Afternoon",
+        "has_left": false,
+        "passengers": []
+    },
+    {
+        "driver": "Bumblebee",
+        "seats": 3,
+        "destination": "Jaipur",
+        "pickup_time": "Evening",
+        "has_left": false,
+        "passengers": []
+    },
+    {
+        "driver": "Lewis Hamilton",
+        "seats": 4,
+        "destination": "Delhi",
+        "pickup_time": "Morning",
+        "has_left": false,
+        "passengers": []
+    },
+    {
+        "driver": "Kimi Antonelli",
+        "seats": 2,
+        "destination": "Jaipur",
+        "pickup_time": "Night",
+        "has_left": false,
+        "passengers": []
+    },
+    {
+        "driver": "Lightning McQueen",
+        "seats": 4,
+        "destination": "Delhi",
+        "pickup_time": "Evening",
         "has_left": false,
         "passengers": []
     }

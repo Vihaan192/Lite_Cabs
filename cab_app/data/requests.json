@@ -1,11 +1,173 @@
 [
     {
         "name": "JohnDhoe",
+        "bits_id": "2026A7PS0500P",
         "destination": "Delhi",
         "pickup_time": "Morning",
         "year": 3,
-        "sequence": 0,
-        "status": "WAITING",
+        "status": "FULFILLED",
         "req_time": "2026-11-09T12:00:00+00:00"
+    },
+    {
+        "name": "DarthVader",
+        "bits_id": "2026A7PS0501P",
+        "destination": "Delhi",
+        "pickup_time": "Afternoon",
+        "year": 2,
+        "status": "WAITING",
+        "req_time": "2026-11-09T16:05:50.447767+00:00"
+    },
+    {
+        "name": "JattTorontoVaala",
+        "bits_id": "2026A7PS0502P",
+        "destination": "Jaipur",
+        "pickup_time": "Evening",
+        "year": 2,
+        "status": "WAITING",
+        "req_time": "2026-11-09T16:07:26.132296+00:00"
+    },
+    {
+        "name": "Oye Tope",
+        "bits_id": "2025A80901P",
+        "destination": "Delhi",
+        "pickup_time": "Morning",
+        "year": 2,
+        "status": "FULFILLED",
+        "req_time": "2026-11-09T17:49:16.176469+00:00"
+    },
+    {
+        "name": "Dua Lipa",
+        "bits_id": "2025A7PS0503P",
+        "destination": "Delhi",
+        "pickup_time": "Afternoon",
+        "year": 5,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:00:00+00:00"
+    },
+    {
+        "name": "Batman",
+        "bits_id": "2024A7PS0504P",
+        "destination": "Delhi",
+        "pickup_time": "Afternoon",
+        "year": 4,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:01:00+00:00"
+    },
+    {
+        "name": "Madison Beer",
+        "bits_id": "2025A7PS0505P",
+        "destination": "Delhi",
+        "pickup_time": "Afternoon",
+        "year": 5,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:02:00+00:00"
+    },
+    {
+        "name": "Jack Sparrow",
+        "bits_id": "2026A7PS0506P",
+        "destination": "Delhi",
+        "pickup_time": "Afternoon",
+        "year": 1,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:03:00+00:00"
+    },
+    {
+        "name": "Akon",
+        "bits_id": "2024A7PS0507P",
+        "destination": "Delhi",
+        "pickup_time": "Afternoon",
+        "year": 4,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:04:00+00:00"
+    },
+    {
+        "name": "Mo Salah",
+        "bits_id": "2023A7PS0508P",
+        "destination": "Jaipur",
+        "pickup_time": "Evening",
+        "year": 3,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:05:00+00:00"
+    },
+    {
+        "name": "Shrek",
+        "bits_id": "2025A7PS0509P",
+        "destination": "Jaipur",
+        "pickup_time": "Evening",
+        "year": 2,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:06:00+00:00"
+    },
+    {
+        "name": "Florian Wirtz",
+        "bits_id": "2024A7PS0510P",
+        "destination": "Jaipur",
+        "pickup_time": "Evening",
+        "year": 4,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:07:00+00:00"
+    },
+    {
+        "name": "Eminem",
+        "bits_id": "2026A7PS0511P",
+        "destination": "Jaipur",
+        "pickup_time": "Evening",
+        "year": 1,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:08:00+00:00"
+    },
+    {
+        "name": "Mac-Allister",
+        "bits_id": "2025A7PS0512P",
+        "destination": "Delhi",
+        "pickup_time": "Morning",
+        "year": 5,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:09:00+00:00"
+    },
+    {
+        "name": "Dexter",
+        "bits_id": "2024A7PS0513P",
+        "destination": "Delhi",
+        "pickup_time": "Morning",
+        "year": 3,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:10:00+00:00"
+    },
+    {
+        "name": "Jon Snow",
+        "bits_id": "2026A7PS0514P",
+        "destination": "Delhi",
+        "pickup_time": "Evening",
+        "year": 2,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:11:00+00:00"
+    },
+    {
+        "name": "Trilok Mathur",
+        "bits_id": "2025A7PS0515P",
+        "destination": "Delhi",
+        "pickup_time": "Evening",
+        "year": 3,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:12:00+00:00"
+    },
+    {
+        "name": "Spiderman",
+        "bits_id": "2024A7PS0516P",
+        "destination": "Delhi",
+        "pickup_time": "Evening",
+        "year": 4,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:13:00+00:00"
+    },
+    {
+        "name": "BlackCat",
+        "bits_id": "2026A7PS0517P",
+        "destination": "Delhi",
+        "pickup_time": "Evening",
+        "year": 1,
+        "status": "WAITING",
+        "req_time": "2026-11-09T18:14:00+00:00"
     }
 ]
