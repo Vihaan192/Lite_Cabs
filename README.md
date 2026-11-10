@@ -107,7 +107,7 @@ Let:
 | Extracting $K$ passengers from a heap | $O(K \log N)$ |
 | Displaying all requests and cabs | $O(N + C)$ |
 | Sorting requests for matching preview | $O(N \log N)$ |
-| Adding $N$ ride requests | $O(N)$ amortized |
+| Adding $N$ ride requests | $O(N)$ |
 | Finding an open cab | $O(C)$ |
 | Sending one cab (including queue construction) | $O(N \log N + K \log N + C)$  ~ $O(N \log N)$ |
 
